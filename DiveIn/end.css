@@ -1,4 +1,9 @@
 .hd-tupe{
   color: blue;
   text-align: center;
+  display:inline;
+}
+
+h2{
+  display: inline;
 }
