@@ -1,9 +1,56 @@
-.hd-tupe{
-  color: blue;
-  text-align: center;
-  display:inline;
+.logo{
+  width:40px;
+  height: 40px;
+  margin-left:10px;
+  display:inline-block;
 }
 
-h2{
-  display: inline;
+.line{
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  display:inline-block;
+  font-size: 20px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+
+.developers{
+  height:70px;
+  width:70px;
+  margin-left: 70rem;
+}
+
+.first{
+  background-color:#AFB4FF;
+  margin-top: 40px
+}
+
+.que{
+  color:#00F5FF;
+  font-size: 52px;
+  position: absolute;
+  top:200px;
+  left:100px;
+}
+
+.work{
+  font-size: 20px;
+  position: absolute;
+  top:270px;
+  left:100px;
+}
+
+.work1{
+  font-size: 20px;
+  position: absolute;
+  top:295px;
+  left:100px;
+}
+
+.basket{
+  height:400px;
+  width:400px;
+  margin-left: 1050px;
+  margin-top: 100px;
 }
